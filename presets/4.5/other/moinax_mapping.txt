@@ -1,0 +1,25 @@
+#$ TITLE: Moinax AUX Mapping
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: community, aux, adjrange, other
+#$ AUTHOR: Moinax
+
+#$ DESCRIPTION: Custom aux channels and adjrange settings.
+
+# Aux settings
+aux 0 0 2 1700 2100 0 0
+aux 1 1 4 1700 2100 0 0
+aux 2 2 4 1300 1700 0 0
+aux 3 13 5 1700 2100 0 0
+aux 4 35 0 1700 2100 0 0
+
+# Adjrange settings
+adjrange 0 0 3 900 1200 12 3 0 0
+adjrange 1 0 3 1350 1650 12 3 0 0
+adjrange 2 0 3 1800 2100 12 3 0 0
+adjrange 3 0 6 900 1100 29 6 0 0
+adjrange 4 0 6 1300 1500 29 6 0 0
+adjrange 5 0 6 1700 1900 29 6 0 0

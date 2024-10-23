@@ -1,0 +1,88 @@
+#$ TITLE: Moinax OSD Profiles
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: community, osd, profiles
+#$ AUTHOR: Moinax
+
+#$ DESCRIPTION: Custom OSD profiles for various flight modes. Select the OSD profile to apply.
+
+#$ OPTION BEGIN (UNCHECKED): OSD Profile 1 (Profile 0)
+    profile 0
+    set osd_vbat_pos = 6691
+    set osd_rssi_pos = 15913
+    set osd_link_quality_pos = 7714
+    set osd_link_tx_power_pos = 24
+    set osd_rssi_dbm_pos = 7725
+    set osd_tim_2_pos = 6732
+    set osd_flymode_pos = 6147
+    set osd_throttle_pos = 6659
+    set osd_vtx_channel_pos = 373
+    set osd_current_pos = 6668
+    set osd_mah_drawn_pos = 6700
+    set osd_craft_name_pos = 7171
+    set osd_altitude_pos = 23124
+    set osd_power_pos = 388
+    set osd_warnings_pos = 14435
+    set osd_avg_cell_voltage_pos = 14915
+    set osd_disarmed_pos = 14403
+    set osd_core_temp_pos = 6708
+    set osd_stick_overlay_left_pos = 4498
+    set osd_stick_overlay_right_pos = 4507
+    set osd_rate_profile_name_pos = 6179
+    set osd_sys_lq_pos = 1318
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): OSD Profile 2 (Profile 1)
+    profile 1
+    set osd_vbat_pos = 6691
+    set osd_rssi_pos = 15913
+    set osd_link_quality_pos = 7714
+    set osd_link_tx_power_pos = 24
+    set osd_rssi_dbm_pos = 7725
+    set osd_tim_2_pos = 6732
+    set osd_flymode_pos = 6147
+    set osd_throttle_pos = 6659
+    set osd_vtx_channel_pos = 373
+    set osd_current_pos = 6668
+    set osd_mah_drawn_pos = 6700
+    set osd_craft_name_pos = 7171
+    set osd_altitude_pos = 23124
+    set osd_power_pos = 388
+    set osd_warnings_pos = 14435
+    set osd_avg_cell_voltage_pos = 14915
+    set osd_disarmed_pos = 14403
+    set osd_core_temp_pos = 6708
+    set osd_stick_overlay_left_pos = 4498
+    set osd_stick_overlay_right_pos = 4507
+    set osd_rate_profile_name_pos = 6179
+    set osd_sys_lq_pos = 1318
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): OSD Profile 3 (Profile 2)
+    profile 2
+    set osd_vbat_pos = 6691
+    set osd_rssi_pos = 15913
+    set osd_link_quality_pos = 7714
+    set osd_link_tx_power_pos = 24
+    set osd_rssi_dbm_pos = 7725
+    set osd_tim_2_pos = 6732
+    set osd_flymode_pos = 6147
+    set osd_throttle_pos = 6659
+    set osd_vtx_channel_pos = 373
+    set osd_current_pos = 6668
+    set osd_mah_drawn_pos = 6700
+    set osd_craft_name_pos = 7171
+    set osd_altitude_pos = 23124
+    set osd_power_pos = 388
+    set osd_warnings_pos = 14435
+    set osd_avg_cell_voltage_pos = 14915
+    set osd_disarmed_pos = 14403
+    set osd_core_temp_pos = 6708
+    set osd_stick_overlay_left_pos = 4498
+    set osd_stick_overlay_right_pos = 4507
+    set osd_rate_profile_name_pos = 6179
+    set osd_sys_lq_pos = 1318
+#$ OPTION END
