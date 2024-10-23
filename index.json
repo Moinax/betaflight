@@ -6390,7 +6390,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/moinax_osd.txt",
-      "hash": "3cd6e5111587cf269b5b544ba6ce121b702ffd6e818117842ce505c4530ea2d9",
+      "hash": "c3cdd8849dbec029d21bca2ad1fe633c5cf594903c1926e06bd0b9b47fefcf77",
       "title": "Moinax OSD Profiles",
       "firmware_version": [
         "4.3",
@@ -6650,7 +6650,7 @@
     },
     {
       "fullPath": "presets/4.5/rates/moinax_rates.txt",
-      "hash": "bff63790c0f12cd0e202a7068a29069590c9f2c706dc98dbb14e9d416cdfc764",
+      "hash": "580187346be776bae76235aa17055ae1cc23bda562a0a1cc901dca87b9b702eb",
       "title": "Moinax Rates Profiles",
       "firmware_version": [
         "4.3",

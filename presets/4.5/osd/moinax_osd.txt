@@ -33,6 +33,7 @@
     set osd_stick_overlay_right_pos = 4507
     set osd_rate_profile_name_pos = 6179
     set osd_sys_lq_pos = 1318
+    profile save
 #$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): OSD Profile 2 (Profile 1)
@@ -59,6 +60,7 @@
     set osd_stick_overlay_right_pos = 4507
     set osd_rate_profile_name_pos = 6179
     set osd_sys_lq_pos = 1318
+    profile save
 #$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): OSD Profile 3 (Profile 2)
@@ -85,4 +87,5 @@
     set osd_stick_overlay_right_pos = 4507
     set osd_rate_profile_name_pos = 6179
     set osd_sys_lq_pos = 1318
+    profile save
 #$ OPTION END

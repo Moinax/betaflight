@@ -22,6 +22,7 @@
     set roll_srate = 100
     set pitch_srate = 100
     set yaw_srate = 100
+    profile save
 #$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): Racing Rates (Profile 1)
@@ -37,6 +38,7 @@
     set roll_srate = 53
     set pitch_srate = 53
     set yaw_srate = 53
+    profile save
 #$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): Cine Rates (Profile 2)
@@ -53,4 +55,5 @@
     set roll_srate = 53
     set pitch_srate = 53
     set yaw_srate = 53
+    profile save
 #$ OPTION END
